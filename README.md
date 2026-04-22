@@ -2,23 +2,22 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team soloCyberGBC
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
-| _______ | _______ | _______ |
+| Andre | Missing Headers | andre1_open_redis |
+| Andre | No HTTPS | andre2_cleartext_telnet |
+| Andre | Version Disclosure | andre3_version_disclosure |
 
 ## Videos
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: https://youtube.com/watch?v=_______
-- Member 2: https://youtube.com/watch?v=_______
-- Member 3: https://youtube.com/watch?v=_______
+- Member 1: https://youtu.be/NWYTZQGRdk8
+
 
 ## Target
 
